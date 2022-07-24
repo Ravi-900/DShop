@@ -1,3 +1,5 @@
+## Partner in caffaine loading game  @VivekKumar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Snapshots:-
+
+![Screenshot 2022-07-24 121857](https://user-images.githubusercontent.com/69913428/180636111-8b167c7f-7eec-4b6a-b585-17d010cf985c.png)
+![Screenshot 2022-07-24 121946](https://user-images.githubusercontent.com/69913428/180636114-4bcbbed0-c9ff-43fb-9cc7-7175eb3f6cbc.png)
+![Screenshot 2022-07-24 122014](https://user-images.githubusercontent.com/69913428/180636115-0d9c6c69-ec2b-4e6d-9f34-edf25fd67b10.png)
+![Screenshot 2022-07-24 122032](https://user-images.githubusercontent.com/69913428/180636116-e495a4cd-9748-49f9-bc8b-22fe3e6092ec.png)
+![Screenshot 2022-07-24 122054](https://user-images.githubusercontent.com/69913428/180636117-0aae75e6-6474-4ac6-8fab-c8b5df5d79ef.png)
+![Screenshot 2022-07-24 122131](https://user-images.githubusercontent.com/69913428/180636118-2510d67f-fca8-4c87-950c-a0b50ede6069.png)
+![Screenshot 2022-07-24 122211](https://user-images.githubusercontent.com/69913428/180636120-544cc2f9-5efc-47fb-b23d-f2593d4c86b7.png)
+![Screenshot 2022-07-24 122405](https://user-images.githubusercontent.com/69913428/180636122-a523fc66-bf98-4564-8487-db558ab3acde.png)
